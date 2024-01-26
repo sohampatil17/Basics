@@ -1,3 +1,2 @@
 # CS3704 SE Basics Workshop
-Soham Patil
-Hello GitHub!
+Soham Patil  Hello GitHub!
